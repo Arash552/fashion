@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+
+* {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  transition: 0.3s;
+  scroll-behavior: smooth;
+  user-select: none;
+  box-sizing: border-box;
+}
+
+.border{
+  border: 1px solid black;
+}
+.colors {
+  color: #ff2e96;
+  color: #242424;
+  color: white;
+}
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+  display: grid;
+  place-items: center;
+  background-color: #242424;
+  color: white;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+.button2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: grid;
+  place-items: center;
+  background-color: white;
+  color: #242424;
+  font-size: 16px;
+  border: none;
+  outline: none;
+}
+
+.boxShadow {
+  -webkit-box-shadow: inset 0 -100px 50px -6.5px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: inset 0 -100px 50px -6.5px rgba(0, 0, 0, 0.8);
+  box-shadow: inset 0 -100px 50px -6.5px rgba(0, 0, 0, 0.8);
+}

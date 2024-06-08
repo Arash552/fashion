@@ -1,0 +1,157 @@
+{
+  "heroSection": [
+    {
+      "id": "0",
+      "title": "Best warming clothes",
+      "subText": "we have the best clothes you can imagine , be sure to check them out and see for yourself!",
+      "pic": "/4075.png",
+      "isBackDark": false
+    },
+    {
+      "id": "5",
+      "title": "",
+      "subText": "",
+      "pic": "/mainpic2.png",
+      "isBackDark": true
+    },
+    {
+      "id": "1",
+      "title": "",
+      "subText": "",
+      "pic": "/mainpic3.png",
+      "isBackDark": false
+    },
+    {
+      "id": "2",
+      "title": "",
+      "subText": "",
+      "pic": "/mainpic.jpg",
+      "isBackDark": false
+    },
+    {
+      "id": "3",
+      "title": "make your kids happy",
+      "subText": "best clothes for kids that will make them happy this christmas!",
+      "pic": "/4076.png",
+      "isBackDark": false
+    },
+    {
+      "id": "4",
+      "title": "make your best friends happy",
+      "subText": "best clothes for friends and familly that will make them happy this christmas!",
+      "pic": "/main4.png",
+      "isBackDark": true
+    }
+  ],
+  "productCard": [
+    {
+      "id": "0",
+      "title": "skin oil",
+      "subText": "best oriduct for achieving model like skin",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "price": 19,
+      "pic": "/item1.png",
+      "isFavorite": false
+    },
+    {
+      "id": "1",
+      "title": "mens shirt",
+      "subText": "good gift for dads",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "price": 12,
+      "pic": "/item2.png",
+      "isFavorite": false
+    },
+    {
+      "id": "2",
+      "title": "cloths",
+      "subText": "soft and high quality",
+      "price": 66,
+      "pic": "/item3.png",
+      "isFavorite": true
+    },
+    {
+      "id": "3",
+      "title": "skin care",
+      "subText": "do want a soft skin",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "price": 29,
+      "pic": "/item4.png",
+      "isFavorite": true
+    },
+    {
+      "id": "4",
+      "title": "woman sheo",
+      "subText": "adds a couple of inches",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "price": 88,
+      "pic": "/item5.png",
+      "isFavorite": false
+    },
+    {
+      "id": "5",
+      "title": "shirt",
+      "subText": "for boy friends",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "price": 6.33,
+      "pic": "/item6.png",
+      "isFavorite": false
+    }
+  ],
+  "products": [
+    {
+      "id": "0",
+      "alt_description": "skin oil",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "urls": {
+        "regular": "/item1.png"
+      },
+      "isFavorite": true
+    },
+    {
+      "id": "1",
+      "alt_description": "mens shirt",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "urls": {
+        "regular": "/item2.png"
+      },
+      "isFavorite": true
+    },
+    {
+      "id": "2",
+      "alt_description": "cloths",
+      "description": "soft and high quality",
+      "urls": {
+        "regular": "/item3.png"
+      },
+      "isFavorite": true
+    },
+    {
+      "id": "3",
+      "alt_description": "skin care",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "urls": {
+        "regular": "/item4.png"
+      },
+      "isFavorite": true
+    },
+    {
+      "id": "4",
+      "alt_description": "woman sheo",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "urls": {
+        "regular": "/item5.png"
+      },
+      "isFavorite": true
+    },
+    {
+      "id": "5",
+      "alt_description": "shirt",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat, repudiandae commodi facilis ducimus provident repellat alias tempore reiciendis quibusdam sit.",
+      "urls": {
+        "regular": "/item6.png"
+      },
+      "isFavorite": true
+    }
+  ]
+}
